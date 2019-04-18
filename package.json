@@ -4,11 +4,12 @@
   "description": "Project nodejs learning about node and npm",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nchristanto/project-javascript-nodejs.git"
+    "url": "git+https://github.com/nchristanto/project-nodejs.git"
   },
   "keywords": [
     "nodejs",
@@ -17,9 +18,9 @@
   "author": "Nanda Christanto",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nchristanto/project-javascript-nodejs/issues"
+    "url": "https://github.com/nchristanto/project-nodejs/issues"
   },
-  "homepage": "https://github.com/nchristanto/project-javascript-nodejs#readme",
+  "homepage": "https://github.com/nchristanto/project-nodejs#readme",
   "dependencies": {
     "bootstrap": "^4.3.1"
   },
